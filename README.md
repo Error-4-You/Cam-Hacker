@@ -8,7 +8,7 @@
 
 * ```apt-get install git```
 
-* ```git clone https://github.com/Error-For-You/Cam-Hacker```
+* ```git clone https://github.com/Error-4-You/Cam-Hacker```
 
 * ```pip3 install requests```
 
@@ -30,13 +30,13 @@
   
 # 😏😏
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-For-You&langs_count=8)](https://github.com/Error-For-You/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Error-4-You&langs_count=8)](https://github.com/Error-4-You/github-readme-stats)
 
 # 🤬🤬
 
 
 <p align="center">
-<a href="https://github.com/Error-For-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Error-4-You"><img title="YouTube" src="https://img.shields.io/badge/Error-4You-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCfjJgu6-VQPvcgRaygLyhqQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Error 4 You-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
